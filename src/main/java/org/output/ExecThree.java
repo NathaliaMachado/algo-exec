@@ -1,5 +1,6 @@
 package org.output;
 
+// Encapsulation
 class Person {
     private String name;
 
