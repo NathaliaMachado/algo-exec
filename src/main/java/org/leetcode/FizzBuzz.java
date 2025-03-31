@@ -32,7 +32,10 @@ public class FizzBuzz {
         });
 
 
-        System.out.println(list);
+      //  System.out.println(list);
+        list.forEach(s -> {
+            System.out.println(s);
+        });
 
     }
 
